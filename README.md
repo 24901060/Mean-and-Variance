@@ -1,7 +1,7 @@
 #  Mean and variance of a discrete  distribution
-# NAME:ANBUDURAI.A
+# NAME:PRAVEEN S
 
-# REG NO:212224230018
+# REG NO:212224230206
 
 # Aim : 
 To find mean and variance of arrival of objects from the feeder using probability distribution
